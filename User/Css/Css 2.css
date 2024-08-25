@@ -1,0 +1,59 @@
+button[name="kirim"] {
+    background-color: #007bff; /* Warna latar belakang */
+    color: #fff; /* Warna teks */
+    border: none; /* Hilangkan garis tepi */
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Ukuran font */
+    cursor: pointer; /* Pointer saat dihover */
+    border-radius: 5px; /* Sudut tombol */
+    transition: background-color 0.3s; /* Animasi perubahan warna */
+  }
+  
+  /* Efek hover */
+  button[name="kirim"]:hover {
+    background-color: #0056b3; /* Warna latar belakang saat dihover */
+  }
+  
+  /* Gaya teks */
+  .text {
+    display: block;
+  }
+  
+  .text-1 {
+    display: none; /* Sembunyikan teks pertama */
+  }
+  
+  .text-2 {
+    display: inline; /* Tampilkan teks kedua */
+  }
+
+  button[name="Login"] {
+    background-color: #007bff; /* Warna latar belakang */
+    color: #fff; /* Warna teks */
+    border: none; /* Hilangkan garis tepi */
+    padding: 10px 20px; /* Padding */
+    font-size: 16px; /* Ukuran font */
+    cursor: pointer; /* Pointer saat dihover */
+    border-radius: 5px; /* Sudut tombol */
+    transition: background-color 0.3s; /* Animasi perubahan warna */
+    text-decoration: none; /* Hapus dekorasi tautan */
+  }
+  
+  /* Efek hover */
+  button[name="Login"]:hover {
+    background-color: #0056b3; /* Warna latar belakang saat dihover */
+  }
+  
+  /* Gaya teks */
+  .text {
+    display: block;
+  }
+  
+  .text-1 {
+    display: none; /* Sembunyikan teks pertama */
+  }
+  
+  .text-2 {
+    display: inline; /* Tampilkan teks kedua */
+  }
+  
